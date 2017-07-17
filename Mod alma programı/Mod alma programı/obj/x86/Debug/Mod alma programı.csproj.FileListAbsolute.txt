@@ -1,0 +1,9 @@
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Mod alma programı\bin\Debug\Mod alma programı.exe
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Mod alma programı\bin\Debug\Mod alma programı.pdb
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Mod alma programı\obj\x86\Debug\Mod_alma_programı.Form1.resources
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Mod alma programı\obj\x86\Debug\Mod_alma_programı.Properties.Resources.resources
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Mod alma programı\obj\x86\Debug\Mod alma programı.csproj.GenerateResource.Cache
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Mod alma programı\obj\x86\Debug\Mod alma programı.exe
+C:\Users\ibrahim\AppData\Local\Temporary Projects\Mod alma programı\obj\x86\Debug\Mod alma programı.pdb
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Mod alma programı\Mod alma programı\obj\x86\Debug\Mod alma programı.exe
+C:\Users\ibrahim\documents\visual studio 2010\Projects\Mod alma programı\Mod alma programı\obj\x86\Debug\Mod alma programı.pdb
